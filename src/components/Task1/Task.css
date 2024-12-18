@@ -1,0 +1,21 @@
+.main-wrapper {
+  height: 100vh;
+  min-height: 100vh;
+  font-family: "Poppins", serif;
+  background-color: #171717;
+}
+
+.form_box {
+  width: 400px;
+  height: 500px;
+  border: 2px solid white;
+}
+
+input[type="radio"]:hover {
+  cursor: pointer;
+}
+
+.input_message {
+  font-size: 13px;
+  opacity: 0.6;
+}
